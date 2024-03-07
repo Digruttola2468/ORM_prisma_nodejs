@@ -1,0 +1,3 @@
+-- AlterTable
+ALTER TABLE `Product` ALTER COLUMN `price` DROP DEFAULT,
+    ALTER COLUMN `stock` DROP DEFAULT;
